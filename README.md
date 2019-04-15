@@ -1,6 +1,6 @@
-## HomeAway Android Coding Challenge
+## Sysco Labs Android Coding Challenge
 
-HomeAway takes great care in how we select members of our engineering team. This technical challenge will help us get an idea of how you would use software to solve problems for our end users.
+Sysco Labs takes great care in how we select members of our engineering team. This technical challenge will help us get an idea of how you would use software to solve problems for our end users.
 
 We know that your time is important, so we’ve designed the challenge with that in mind. An acceptable solution might take between 2-8 hours depending on how familiar you are with Android development. Nevertheless, please feel free to spend as much time as you’d like crafting your preferred solution. We hope you have fun building it!
 
@@ -45,7 +45,7 @@ For quick and easy icons, consider using the [Material icons](https://material.i
 
 ### Considerations
 
-We’re upping our game here at HomeAway, and we aim to create world-class app experiences for our customers. Among other criteria, your submission will be evaluated on:
+We’re upping our game here at Sysco Labs, and we aim to create world-class app experiences for our customers. Among other criteria, your submission will be evaluated on:
 
 1. Implementation of the stated requirements
 2. Application Architecture
@@ -59,7 +59,7 @@ Oh, and don’t worry if your app has personality or a sense of humor. We want y
 
 Good Luck,
 
-Your Friends at HomeAway
+Your Friends at Sysco Labs
 
 ### Sample Foursquare Response
 
